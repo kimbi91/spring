@@ -13,6 +13,6 @@ public class Festival {
 
         System.out.println("A " + genre + " műfajú "
                 + year + " -ban / -ben megjelent szám "
-                + succes + " sikert aratott.");
+                + succes + "% sikert aratott.");
     }
 }
